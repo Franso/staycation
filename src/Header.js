@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import staycation_logo from "./staycation.png";
+import staycation_logo from "./images/staycation.png";
 import SearchIcon from "@material-ui/icons/Search";
 import LanguageIcon from "@material-ui/icons/Language";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
