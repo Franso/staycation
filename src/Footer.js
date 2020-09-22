@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="footer">
       <p>@2020 Staycation.</p>
-      <p>Privacy . Terms . Sitemap . Company Details</p>
+      <p>Privacy | Terms | Sitemap | Company Details</p>
     </div>
   );
 }
