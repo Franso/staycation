@@ -6,10 +6,11 @@ import Header from "./Header";
 function App() {
   return (
     <div className="app">
-      {/* Home  */}
-      <Home />
       {/* Header */}
       <Header />
+      {/* Home  */}
+      <Home />
+
       {/* Banner */}
 
       {/*  Cards */}
